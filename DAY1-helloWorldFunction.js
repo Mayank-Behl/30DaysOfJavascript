@@ -9,3 +9,5 @@ const helloFunction = createHelloWorld();
 const message = helloFunction();
 
 console.log(message); // This will log "Hello World" to the console
+
+//Closure -> Function Along with its lexical scope bundeled together forms a closure
